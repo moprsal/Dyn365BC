@@ -1,2 +1,2 @@
 # Dyn365BC
-Dynamics 365 Business Central
+My Dynamics 365 Business Central PowerShell scripts
